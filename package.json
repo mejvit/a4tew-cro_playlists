@@ -14,7 +14,7 @@
     "dexie": "^3.0.1",
     "jquery": "^3.5.1",
     "lodash": "^4.17.19",
-    "luxon": "^1.24.1",
+    "luxon": "^1.28.1",
     "node-sass": "^4.14.1",
     "popper.js": "^1.16.1",
     "sass-loader": "^9.0.2",
